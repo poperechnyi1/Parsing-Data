@@ -1,0 +1,3 @@
+#Run
+
+node .\testScript.js
